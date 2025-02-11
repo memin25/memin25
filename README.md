@@ -1,11 +1,15 @@
 ### 👋 Merhaba, ben Muhammed Emin!  
 Şu an aktif olarak Full Stack Web geliştirici olarak çalışıyorum ve React ile projeler geliştiriyorum.  
 
-- 🔭 Şu anda **Xdatum**'da çalışıyorum  
+- 🔭 Şu anda **Xdatum**'da çalışıyorum
+- ⚡ React kullanarak Frontend geliştiriyorum 
 - 🌱 Python Flask ve LLM Fine-Tuning öğreniyorum  
-- ⚡ İlgi Alanlarım: Full Stack Web Geliştirme ve Yapay Zeka
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+### ⚡ İlgi Alanlarım  
+- 🔬 LLM Fine-Tuning & AI Model Geliştirme  
+- 🌍 Open Source Projeler  
+- 💻 Web Geliştirme (React & Python)  
+- 📚 Yeni Teknolojiler Öğrenmek  
 
 ### 🚀 Kullandığım Teknolojiler  
 <p>
@@ -14,6 +18,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ### 📊 GitHub İstatistiklerim  
 <p>
