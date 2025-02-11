@@ -3,7 +3,9 @@
 
 - 🔭 Şu anda **Xdatum**'da çalışıyorum  
 - 🌱 Python Flask ve LLM Fine-Tuning öğreniyorum  
-- ⚡ İlgi Alanlarım: Full Stack Web Geliştirme ve Yapay Zeka 
+- ⚡ İlgi Alanlarım: Full Stack Web Geliştirme ve Yapay Zeka
+
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 ### 🚀 Kullandığım Teknolojiler  
 <p>
