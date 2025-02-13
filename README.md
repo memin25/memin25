@@ -29,4 +29,4 @@
 
 ### 📫 Bana Ulaşın  
 📩 **Email:** [muhammedea25@gmail.com]  
-💼 **LinkedIn:** [[Linkedin profilim](https://www.linkedin.com/in/muhammed-emin-arslan-79b381238/)]  
+💼 **LinkedIn:** [[Muhammed Emin Arslan](https://www.linkedin.com/in/muhammed-emin-arslan-79b381238/)]  
